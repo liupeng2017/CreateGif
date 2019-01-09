@@ -1,5 +1,6 @@
 git init
+git rm --cached CreateGif
 git add .
 git commit -m "CreateGit commit"
-git push origin liupeng2017
+git push origin master
 pause
